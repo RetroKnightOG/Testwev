@@ -1,0 +1,165 @@
+.game-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  padding-top: var(--dl-space-space-threeunits);
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: var(--dl-color-primary-100);
+}
+.game-container1 {
+  width: 215px;
+  height: 57px;
+  display: flex;
+  position: relative;
+  align-self: center;
+  align-items: center;
+  justify-content: flex-start;
+}
+.game-text {
+  width: 211px;
+  height: 36px;
+  align-self: stretch;
+}
+.game-container2 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 208px;
+  display: flex;
+  position: relative;
+  transition: 0.3s;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.game-container2:hover {
+  width: 100%;
+  height: 300px;
+}
+
+
+.game-image {
+  width: auto;
+  object-fit: cover;
+  transition: 0.3s;
+}
+
+
+
+.game-image01 {
+  width: auto;
+  object-fit: cover;
+  transition: 0.3s;
+}
+
+
+.game-image02 {
+  width: auto;
+  object-fit: cover;
+  transition: 0.3s;
+}
+
+
+.game-image03 {
+  width: auto;
+  object-fit: cover;
+  transition: 0.3s;
+}
+
+
+.game-image04 {
+  width: auto;
+  object-fit: cover;
+  transition: 0.3s;
+}
+
+
+.game-image05 {
+  width: auto;
+  object-fit: cover;
+  transition: 0.3s;
+}
+
+
+.game-image06 {
+  width: auto;
+  object-fit: cover;
+  transition: 0.3s;
+}
+
+
+.game-image07 {
+  width: auto;
+  object-fit: cover;
+  transition: 0.3s;
+}
+
+
+.game-image08 {
+  width: auto;
+  object-fit: cover;
+  transition: 0.3s;
+}
+
+
+.game-image09 {
+  width: auto;
+  height: 299px;
+  object-fit: cover;
+  transition: 0.3s;
+}
+
+
+.game-image10 {
+  flex: 1;
+  width: auto;
+  height: 299px;
+  object-fit: cover;
+  transition: 0.3s;
+}
+
+
+.game-image11 {
+  width: auto;
+  height: 299px;
+  object-fit: cover;
+  transition: 0.3s;
+}
+
+
+.game-image12 {
+  width: 285px;
+  height: 298px;
+  object-fit: cover;
+  transition: 0.3s;
+}
+
+
+.game-image13 {
+  width: 285px;
+  height: 298px;
+  object-fit: cover;
+  transition: 0.3s;
+}
+
+
+.game-image14 {
+  width: 285px;
+  height: 298px;
+  object-fit: cover;
+  transition: 0.3s;
+}
+
+
+.game-icon {
+  width: auto;
+  height: auto;
+}
+.game-icon2 {
+  width: 24px;
+  height: 24px;
+  transition: 0.3s;
+}
+
